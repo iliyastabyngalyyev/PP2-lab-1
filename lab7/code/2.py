@@ -65,8 +65,8 @@ while run:
 
     text2 = font2.render(os.path.basename(playlist[index]), True, (20, 20, 50))
 
-    background = pygame.transform.scale(background, (800, 600))  # Жаңа өлшем
-    screen.blit(background, (0, 0))  # Орналастыру
+    background = pygame.transform.scale(background, (800, 600))  
+    screen.blit(background, (0, 0))  
     screen.blit(bg, (155, 500))
     screen.blit(text2, (265, 520))
     playb = pygame.transform.scale(playb, (70, 70))
