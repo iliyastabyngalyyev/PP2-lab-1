@@ -1,0 +1,16 @@
+School Name,Жуз 40 мектебі
+Address,"Алматы, Қазақстан"
+Phone,87056576588
+Email,contact@juz40.kz
+Number of Students,5000
+Number of Teachers,100
+
+Students
+Name,Surname,Age,Gender,Nationality,School,Subjects
+Айша,Бекенова,16,әйел,Қазақ,Жуз 40 мектебі,"Математика, Физика"
+Бекжан,Алиев,17,ер,Қазақ,Жуз 40 мектебі,"Тарих, Әдебиет"
+
+Teachers
+Name,Surname,Age,Gender,Nationality,School,Subject
+Мырзағали,Жұмабаев,45,ер,Қазақ,Жуз 40 мектебі,Математика
+Анар,Сейітова,40,әйел,Қазақ,Жуз 40 мектебі,Тарих

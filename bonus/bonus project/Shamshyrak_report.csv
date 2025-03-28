@@ -1,0 +1,16 @@
+School Name,Шамшырак мектебі
+Address,"Актау, Қазақстан"
+Phone,87077521244
+Email,contact@sham.kz
+Number of Students,750
+Number of Teachers,55
+
+Students
+Name,Surname,Age,Gender,Nationality,School,Subjects
+Ержан,Кенесов,15,ер,Қазақ,Шамшырак мектебі,"Химия, Биология"
+Мадина,Серікбаева,16,әйел,Қазақ,Шамшырак мектебі,"Ағылшын тілі, Физика"
+
+Teachers
+Name,Surname,Age,Gender,Nationality,School,Subject
+Самат,Нұрғалиев,38,ер,Қазақ,Шамшырак мектебі,Химия
+Гүлнар,Қасымова,42,әйел,Қазақ,Шамшырак мектебі,Физика

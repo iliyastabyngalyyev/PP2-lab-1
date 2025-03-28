@@ -1,0 +1,16 @@
+School Name,Каз билим лицейі
+Address,"Шымкент, Қазақстан"
+Phone,87052059742
+Email,contact@QZbilim.kz
+Number of Students,600
+Number of Teachers,40
+
+Students
+Name,Surname,Age,Gender,Nationality,School,Subjects
+Нұржан,Әбдірахманов,17,ер,Қазақ,Каз билим лицейі,"Информатика, География"
+Әсел,Омарова,16,әйел,Қазақ,Каз билим лицейі,"Химия, Физика"
+
+Teachers
+Name,Surname,Age,Gender,Nationality,School,Subject
+Жанар,Мұратова,37,әйел,Қазақ,Каз билим лицейі,Информатика
+Қанат,Ермеков,44,ер,Қазақ,Каз билим лицейі,Химия
